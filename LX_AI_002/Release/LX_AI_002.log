@@ -1,0 +1,31 @@
+﻿  LX_AI_002Dlg.cpp
+f:\毕设！！！！！\答辩\lx_ai_002_release_524\lx_ai_002\lx_ai_002dlg.cpp(277): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\毕设！！！！！\答辩\lx_ai_002_release_524\lx_ai_002\lx_ai_002dlg.cpp(315): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\毕设！！！！！\答辩\lx_ai_002_release_524\lx_ai_002\lx_ai_002dlg.cpp(325): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\毕设！！！！！\答辩\lx_ai_002_release_524\lx_ai_002\lx_ai_002dlg.cpp(326): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\毕设！！！！！\答辩\lx_ai_002_release_524\lx_ai_002\lx_ai_002dlg.cpp(328): warning C4305: “+=”: 从“double”到“float”截断
+f:\毕设！！！！！\答辩\lx_ai_002_release_524\lx_ai_002\lx_ai_002dlg.cpp(331): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\毕设！！！！！\答辩\lx_ai_002_release_524\lx_ai_002\lx_ai_002dlg.cpp(332): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\毕设！！！！！\答辩\lx_ai_002_release_524\lx_ai_002\lx_ai_002dlg.cpp(334): warning C4305: “+=”: 从“double”到“float”截断
+f:\毕设！！！！！\答辩\lx_ai_002_release_524\lx_ai_002\lx_ai_002dlg.cpp(446): warning C4305: “=”: 从“double”到“float”截断
+f:\毕设！！！！！\答辩\lx_ai_002_release_524\lx_ai_002\lx_ai_002dlg.cpp(464): warning C4305: “=”: 从“double”到“float”截断
+f:\毕设！！！！！\答辩\lx_ai_002_release_524\lx_ai_002\lx_ai_002dlg.cpp(477): warning C4129: “m”: 不可识别的字符转义序列
+f:\毕设！！！！！\答辩\lx_ai_002_release_524\lx_ai_002\lx_ai_002dlg.cpp(533): warning C4244: “参数”: 从“F64”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+f:\毕设！！！！！\答辩\lx_ai_002_release_524\lx_ai_002\lx_ai_002dlg.cpp(534): warning C4244: “参数”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+f:\毕设！！！！！\答辩\lx_ai_002_release_524\lx_ai_002\lx_ai_002dlg.cpp(555): warning C4305: “=”: 从“double”到“float”截断
+f:\毕设！！！！！\答辩\lx_ai_002_release_524\lx_ai_002\lx_ai_002dlg.cpp(638): warning C4129: “m”: 不可识别的字符转义序列
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/LTCG”规范)
+  正在生成代码
+  4 of 547 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  LX_AI_002.vcxproj -> F:\毕设！！！！！\答辩\LX_AI_002_release_524\Release\LX_AI_002.exe
